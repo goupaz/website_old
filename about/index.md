@@ -10,28 +10,19 @@ type: markdown
 
 # Haqqimizda
 
-Istio is an open platform that provides a uniform way to connect, manage,
-and secure microservices. Istio supports managing traffic flows between
-microservices, enforcing access policies, and aggregating telemetry data,
-all without requiring changes to the microservice code. Istio gives you:
+Biz kimik?
 
-- Automatic load balancing for HTTP, gRPC, and TCP traffic.
+GOUP layih?si xaricde yashayan ve IT sahesinde calishan bir qrup t?cr?b?li komandan?n ideyas?d?r. Layih?nin ?sas m?qs?di Azerbaycanda "Open Source" resurslarin inkishafi, bu sahede xaricde elde etdiymiz tecrubenin sizlerle paylashilmasidir.
 
-- Fine-grained control of traffic behavior with rich routing rules,
-retries, failovers, and fault injection.
+Missiya
 
-- A pluggable policy layer and configuration API supporting access controls,
-rate limits and quotas.
+Xarici ve yerli bazarda IT sahesinde calishan mutexesislerimiz aras?nda k?rp?l?r qurmaq
 
-- Automatic metrics, logs, and traces for all traffic within a cluster,
-including cluster ingress and egress.
+Vizyon
 
-- Secure service-to-service authentication with strong identity assertions
-between services in a cluster.
+Xarici bazarlara cixacaq Az?rbaycan Gencliyini hazirlamaq.
+Yerli Startup infrastrukturunun inkishafi Texnoloji yenilikleri isti-isti sizlere catdirmaq
 
-Istio currently supports the [Kubernetes](https://kubernetes.io) platform,
-and can also be run without Kubernetes using [Consul](https://www.consul.io/) or
-[Eureka](https://github.com/Netflix/eureka) as the service registry. We
-plan to add support for additional platforms such as
-[Cloud Foundry](https://www.cloudfoundry.org/),
-and [Apache Mesos](http://mesos.apache.org/) in the near future.
+Obyektiv
+
+H?d?fimiz ?ox sad?dir IT sahesinin inkishafini suretlendirmek ve en boyuk auditoriyani toplamaq.
