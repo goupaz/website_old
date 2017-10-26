@@ -1,6 +1,6 @@
 ---
-title: About
-overview: About Istio.
+title: Haqqimizda
+overview: GOUPAZ Layihesi haqqinda.
 
 order: 0
 
@@ -8,7 +8,7 @@ layout: about
 type: markdown
 ---
 
-# About
+# Haqqimizda
 
 Istio is an open platform that provides a uniform way to connect, manage,
 and secure microservices. Istio supports managing traffic flows between

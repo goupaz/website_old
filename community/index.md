@@ -1,12 +1,12 @@
 ---
-title: Community
-overview: Information on the various ways to participate and interact with the Istio community.
+title: Komandamiz
+overview: Information on the various ways to participate and interact with the GOUPAZ community.
 layout: community
 type: markdown
 ---
 {% include home.html %}
 
-# Our community
+# Komandamiz
 
 Istio is an open source project with an active community that supports its use and on-going development. We'd love for you
 to join us and get involved!
