@@ -33,6 +33,7 @@ type: markdown
 
 Linkedin: https://www.linkedin.com/in/shahriyarmammadov/
 
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1pvaxuOZ4g1ouT7g7ICFtBwcbjjw" width="640" height="480"></iframe>
 
 <table>
   <tbody>
