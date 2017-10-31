@@ -41,6 +41,7 @@ gems:
   - jekyll-sitemap
   - jekyll-multiple-languages
 
+encoding: UTF-8
 exclude:
   - README.md
   - LICENSE
