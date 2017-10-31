@@ -1,6 +1,6 @@
 ---
-title: Haqqimizda
-overview: GOUPAZ Layihesi haqqinda.
+title: Haqqımızda
+overview: GOUPAZ Layihəsi haqqında.
 
 order: 0
 
@@ -8,21 +8,21 @@ layout: about
 type: markdown
 ---
 
-# Haqqimizda
+# Haqqımızda
 
 Biz kimik?
 
-GOUP layihəsi xaricdə yaşayan və IT sahəsində çalışan bir qrup t?cr?b?li komandan?n ideyas?d?r. Layih?nin ?sas m?qs?di Az?rbaycanda "Open Source" resurslar?n inki?af?, bu sah?d? xaricd? ?ld? etdiymiz t?cr?b?nin sizl?rl? payla??lmas?d?r.
+GOUP layihəsi xaricdə yaşayan və IT sahəsində çalışan bir qrup təcrübəli komandanın ideyasıdır. Layihənin Əsas məqsədi Azərbaycanda "Open Source" resursların inkişafı, bu sahədə xaricdə əldə etdiymiz təcrübənin sizlərlə paylaşılmasıdır.
 
 Missiya
 
-Xarici ve yerli bazarda IT sah?sind? ?al??an m?t?x?sisl?rimiz aras?nda k?rp?l?r qurmaq
+Xarici ve yerli bazarda IT sahəsində çalışan mütəxəsislərimiz arasında körpülər qurmaq
 
 Vizyon
 
-Xarici bazarlara ??xacaq Az?rbaycan G?ncliyini haz?rlamaq.
-Yerli Startup infrastrukturunun inki?af? Texnoloji yenilikleri isti-isti sizl?r? ?atd?rmaq
+Xarici bazarlara çıxacaq Azərbaycan Gəncliyini hazırlamaq.
+Yerli Startup infrastrukturunun inkişafı Texnoloji yenilikleri isti-isti sizlərə çatdırmaq
 
 Obyektiv
 
-H?d?fl?rimiz ?ox sad?dir IT sahesinin inki?af?n? s?r?tl?ndirm?k v? ?n b?y?k auditoriyan? toplamaq.
+Hədəflərimiz çox sadədir IT sahəsinin inkişafını sürətləndirmək və ən böyük auditoriyanı toplamaq.
