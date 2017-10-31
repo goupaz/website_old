@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4806f3e6-3ba5-4171-b139-eef4dc63d75a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istio.github.io" afterPath="$PROJECT_DIR$/istio.github.io" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.md" afterPath="$PROJECT_DIR$/about/index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,16 +67,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section-index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/section-index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="search-box.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/search-box.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
               <caret line="34" column="278" lean-forward="false" selection-start-line="34" selection-start-column="278" selection-end-line="34" selection-end-column="278" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about/index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -137,7 +137,6 @@
       <list>
         <option value="$PROJECT_DIR$/_data/istio.yml" />
         <option value="$PROJECT_DIR$/_faq/does-istio-support-authorization.md" />
-        <option value="$PROJECT_DIR$/about/index.md" />
         <option value="$PROJECT_DIR$/community/index.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-25-0.1-auth.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-24-0.1-announcement.md" />
@@ -148,6 +147,7 @@
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/about/index.md" />
       </list>
     </option>
   </component>
@@ -213,6 +213,11 @@
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -252,12 +257,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509005321436</updated>
       <workItem from="1509005322582" duration="2294000" />
-      <workItem from="1509424582630" duration="3204000" />
+      <workItem from="1509424582630" duration="3996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5498000" />
+    <option name="totallyTimeSpent" value="6290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -369,13 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="27" column="96" lean-forward="false" selection-start-line="27" selection-start-column="96" selection-end-line="27" selection-end-column="96" />
         </state>
       </provider>
     </entry>
@@ -664,6 +662,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="34" column="278" lean-forward="false" selection-start-line="34" selection-start-column="278" selection-end-line="34" selection-end-column="278" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>

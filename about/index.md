@@ -12,17 +12,17 @@ type: markdown
 
 Biz kimik?
 
-GOUP layih?si xaricde yashayan ve IT sahesinde calishan bir qrup t?cr?b?li komandan?n ideyas?d?r. Layih?nin ?sas m?qs?di Azerbaycanda "Open Source" resurslarin inkishafi, bu sahede xaricde elde etdiymiz tecrubenin sizlerle paylashilmasidir.
+GOUP layih?si xaricd? ya?ayan v? IT sah?sind? ?al??an bir qrup t?cr?b?li komandan?n ideyas?d?r. Layih?nin ?sas m?qs?di Az?rbaycanda "Open Source" resurslar?n inki?af?, bu sah?d? xaricd? ?ld? etdiymiz t?cr?b?nin sizl?rl? payla??lmas?d?r.
 
 Missiya
 
-Xarici ve yerli bazarda IT sahesinde calishan mutexesislerimiz aras?nda k?rp?l?r qurmaq
+Xarici ve yerli bazarda IT sah?sind? ?al??an m?t?x?sisl?rimiz aras?nda k?rp?l?r qurmaq
 
 Vizyon
 
-Xarici bazarlara cixacaq Az?rbaycan Gencliyini hazirlamaq.
-Yerli Startup infrastrukturunun inkishafi Texnoloji yenilikleri isti-isti sizlere catdirmaq
+Xarici bazarlara ??xacaq Az?rbaycan G?ncliyini haz?rlamaq.
+Yerli Startup infrastrukturunun inki?af? Texnoloji yenilikleri isti-isti sizl?r? ?atd?rmaq
 
 Obyektiv
 
-H?d?fimiz ?ox sad?dir IT sahesinin inkishafini suretlendirmek ve en boyuk auditoriyani toplamaq.
+H?d?fl?rimiz ?ox sad?dir IT sahesinin inki?af?n? s?r?tl?ndirm?k v? ?n b?y?k auditoriyan? toplamaq.
