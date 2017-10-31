@@ -4,7 +4,6 @@
     <list default="true" id="4806f3e6-3ba5-4171-b139-eef4dc63d75a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istio.github.io" afterPath="$PROJECT_DIR$/istio.github.io" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -111,8 +110,8 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+            <state relative-caret-position="570">
+              <caret line="34" column="249" lean-forward="false" selection-start-line="34" selection-start-column="249" selection-end-line="34" selection-end-column="249" />
               <folding />
             </state>
           </provider>
@@ -253,12 +252,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509005321436</updated>
       <workItem from="1509005322582" duration="2294000" />
-      <workItem from="1509424582630" duration="1891000" />
+      <workItem from="1509424582630" duration="2584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4185000" />
+    <option name="totallyTimeSpent" value="4878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -663,8 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        <state relative-caret-position="570">
+          <caret line="34" column="249" lean-forward="false" selection-start-line="34" selection-start-column="249" selection-end-line="34" selection-end-column="249" />
           <folding />
         </state>
       </provider>
