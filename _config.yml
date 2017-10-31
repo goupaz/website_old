@@ -39,6 +39,7 @@ collections:
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-multiple-languages
 
 exclude:
   - README.md
