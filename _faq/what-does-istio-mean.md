@@ -1,8 +1,9 @@
 ---
-title: What does the word 'Istio' mean?
+title: Açıq kodlu nə deməkdir?
 order: 160
 type: markdown
 ---
 {% include home.html %}
 
-It's the Greek word for 'sail'.
+Açıq kodlu istənilən maraqlı olan şəxsin, heç bir hüquqi məsuliyyət daşımadan, icazə almadan layihəni kopyalayaraq, dəyişərək başqa ad altında satması və istifadəsi deməkdir.
+GOUP -un açıq kodlu və pulsuz şəkildə olmasında əsas məqsəd İT sahəsində  yeni uğurlu startup -ların ərsəyə gəlməsidir.

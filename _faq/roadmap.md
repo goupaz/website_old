@@ -1,13 +1,12 @@
 ---
-title: What is Istio's roadmap?
+title: GOUP -un yol xəritəsində daha nələr var?
 order: 140
 type: markdown
 ---
 {% include home.html %}
 
-Istio's initial 0.1 release was in May of 2017. The 0.1 release was to
-get early feedback and provide a glimpse into what we're planning.
+GOUP 0.1, Vebinar və Elmi Resurs İndeksləməsini nəzərdə tutulur
 
-Istio's second release, 0.2, was in October of 2017. The 0.2 release provides a much enhanced developer experience and a number of exciting new features.
+GOUP 0.2, xaricdə iş İndeksləməsini nəzərdə tutur 
 
-See our [roadmap]({{home}}/docs/reference/release-roadmap.html) and [release notes]({{home}}/docs/reference/release-notes.html) for more details.
+GOUP 0.3, xaricdə təhsil İndeksləməsini nəzərdə tutur 

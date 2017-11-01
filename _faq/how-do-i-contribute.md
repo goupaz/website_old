@@ -5,11 +5,8 @@ type: markdown
 ---
 {% include home.html %}
 
+Layihənin hər zaman sizin dəstəyinə hər zaman ehtiyacı var!
 
+Koda əlavə və dəyişikliklər etməklə [GitHub](https://github.com/goupaz).
 
-Contributions are highly welcome. We look forward to community feedback, additions, and bug reports.
-
-The code repositories are hosted on [GitHub](https://github.com/istio). Please see our [Contribution Guidelines](https://github.com/istio/istio/blob/master/CONTRIBUTING.md) to learn how to contribute.
-
-In addition to the code, there are other ways to contribute to the Istio [community]({{home}}/community/), including on
-[Stack Overflow](https://stackoverflow.com/questions/tagged/istio), and the [mailing list](https://groups.google.com/forum/#!forum/istio-users).
+GOUP-Star layihənizi ərsəyə gətirməklə [community]({{home}}/community/), və forumda aktiv iştirak etməklə [forum](https://groups.google.com/forum/#!forum/goupaz).

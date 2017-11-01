@@ -1,8 +1,8 @@
 ---
-title: GOUPAZ Nedir?
+title: GOUP Mentorlar kimlərdir?
 order: 110
 type: markdown
 ---
 {% include home.html %}
 
-Bu open-source komandadir
+İT sahəsində çalışan təcrübəli mütəxəsislər 

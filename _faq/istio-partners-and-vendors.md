@@ -1,12 +1,11 @@
 ---
-title: How can I discover more about Partner and Vendor opportunities?
+title: GOUP Layihəsinə əməkdaş kimi necə qoşula bilərəm?
 order: 75
 type: markdown
 ---
 {% include home.html %}
 
 
-If you'd like to speak to the Istio team about a potential integration
-and/or a partnership opportunity, please complete this [form](https://goo.gl/forms/ax2SdpC6FpVh9Th02).
+İstənilən maraqlı əməkdaşlıqlar üçün [form](https://goo.gl/forms/ax2SdpC6FpVh9Th02).
 
 
