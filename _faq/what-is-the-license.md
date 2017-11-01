@@ -1,5 +1,5 @@
 ---
-title: Lisenziya nədir?
+title: GOUP hansı lisenziyadan istifadə edir?
 order: 40
 type: markdown
 ---

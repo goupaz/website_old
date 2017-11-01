@@ -5,14 +5,17 @@ type: markdown
 ---
 {% include home.html %}
 
-Yeni ideyalar
-Yeni dostlar
-Yeni texnologiyalardan istifadə bacarığı
-Yeni biliklər və onları manatlaşdırma yolları
-Təcrübəli mentorlarla birbaşa
-əlaqə
+-Yeni ideyalar
 
-Bir sözlə ideyanızı qısa zamanda qazandırmaq imkanı
+-Yeni dostlar
+
+-Yeni texnologiyalardan istifadə bacarığı
+
+-Yeni biliklər və onları manatlaşdırma yolları
+
+-Təcrübəli mentorlarla birbaşa əlaqə və məsləhətlər
+
+Bir sözlə ideyanızı qısa zamanda qazandırmaq imkanı!
 
 
 

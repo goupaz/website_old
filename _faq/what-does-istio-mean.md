@@ -6,4 +6,3 @@ type: markdown
 {% include home.html %}
 
 Açıq kodlu istənilən maraqlı olan şəxsin, heç bir hüquqi məsuliyyət daşımadan, icazə almadan layihəni kopyalayaraq, dəyişərək başqa ad altında satması və istifadəsi deməkdir.
-GOUP -un açıq kodlu və pulsuz şəkildə olmasında əsas məqsəd İT sahəsində  yeni uğurlu startup -ların ərsəyə gəlməsidir.

@@ -1,10 +1,8 @@
 ---
-title: What deployment environments are supported?
+title: GOUP -un açıq-kodlu olmasına səbəb?
 order: 60
 type: markdown
 ---
 {% include home.html %}
 
-Istio is designed and built to be platform-independent. For our {{ site.data.istio.version }} release, however, Istio only supports environments running 
-Kubernetes v1.5 or 
-greater. 
+GOUP -un açıq kodlu və pulsuz şəkildə olmasında əsas məqsəd İT sahəsində  yeni uğurlu startup -ların ərsəyə gəlməsidir.
