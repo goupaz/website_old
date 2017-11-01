@@ -6,10 +6,9 @@ type: markdown
 ---
 {% include home.html %}
 
-# Frequently Asked Questions
+# Layihə ilə bağlı bəzi detallar
 
-Here are some frequently asked questions about Istio. If you don't find your questions answered here, be sure
-to check [Stack Overflow](https://stackoverflow.com/questions/tagged/istio) for more Q&A.
+Yeni sual, fikir, təklif, iradlar üçün: [GOUPAZ Forum](https://groups.google.com/forum/#!forum/goupaz) 
 
 {% assign faqs = site.faq | sort: "order" %}
 <div class="panel-group" id="accordion">

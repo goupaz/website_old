@@ -1,9 +1,11 @@
 ---
-title: How can I contribute?
+title: GOUP a necə dəstək ola bilərəm?
 order: 70
 type: markdown
 ---
 {% include home.html %}
+
+
 
 Contributions are highly welcome. We look forward to community feedback, additions, and bug reports.
 

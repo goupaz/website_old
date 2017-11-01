@@ -5,4 +5,5 @@ type: markdown
 ---
 {% include home.html %}
 
-Layihə həftə sonlarının birində bu şəkildəki cızma-qara ilə başladı
+Layihə həftə sonlarının birində bu şəkildəki cızma-qara ilə və alınan "yox" cavabları ilə başladı
+[PDF]({{home}}/faq/GOUP_PROJECT.pdf)
