@@ -1,12 +1,18 @@
 ---
-title: Why would I want to use Istio?
+title: GOUP da iştirak mənə nə verəcək?
 order: 20
 type: markdown
 ---
 {% include home.html %}
 
-Traditionally, much of the logic handled by Istio has been built directly into applications. Across a fleet of services, managing updates to this communications logic can be a large burden. Istio provides an infrastructure-level solution to managing service communications.
+Yeni ideyalar
+Yeni dostlar
+Yeni texnologiyalardan istifadə bacarığı
+Yeni biliklər və onları manatlaşdırma yolları
+Təcrübəli mentorlarla birbaşa
+əlaqə
 
-*Application developers*: With Istio managing how traffic flows across their services, developers can focus exclusively on business logic and iterate quickly on new features.
+Bir sözlə ideyanızı qısa zamanda qazandırmaq imkanı
 
-*Service operators*: Istio enables policy enforcement and mesh monitoring from a single centralized control point, independent of application evolution. As a result, operators can ensure continuous policy compliance through a simplified management plane.
+
+

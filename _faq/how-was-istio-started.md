@@ -1,9 +1,8 @@
 ---
-title: How was Istio started?
+title: GOUP necə başladı?
 order: 50
 type: markdown
 ---
 {% include home.html %}
 
-The Istio project was started by teams from Google and IBM in partnership with the Envoy team from Lyft. It's been
-developed fully in the open on GitHub.
+Layihə həftə sonlarının birində bu şəkildəki cızma-qara ilə başladı
