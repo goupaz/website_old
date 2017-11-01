@@ -8,8 +8,8 @@ type: markdown
 
 # Layihə ilə bağlı bəzi detallar
 
-Yeni sual, fikir, təklif, iradlar üçün: [GOUPAZ Forum](https://groups.google.com/forum/#!forum/goupaz) 
-
+Yeni sual, fikir, təklif, iradlar üçün: [Forum Panelimiz](https://groups.google.com/forum/#!forum/goupaz) 
+və ya [Sorğu](https://goo.gl/forms/t8mks1a1cOhpAkWT2) 
 {% assign faqs = site.faq | sort: "order" %}
 <div class="panel-group" id="accordion">
 

@@ -6,6 +6,6 @@ type: markdown
 {% include home.html %}
 
 
-İstənilən maraqlı əməkdaşlıqlar üçün [form](https://goo.gl/forms/ax2SdpC6FpVh9Th02).
+İstənilən maraqlı əməkdaşlıqlar üçün [form](https://goo.gl/forms/0sQlRr2vYY5LiYp23).
 
 

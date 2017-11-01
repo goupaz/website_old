@@ -5,6 +5,6 @@ type: markdown
 ---
 {% include home.html %}
 
- [Qeydiyyat]({{home}}/docs/concepts/what-is-istio/)
+ [Qeydiyyat](https://goo.gl/forms/KssbdXexx0C7u9JH2)
 
 Qeyd: Yerlər təəssüf ki, hal-hazırki imkanlarımız daxilində limitlidir

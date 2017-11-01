@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4806f3e6-3ba5-4171-b139-eef4dc63d75a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istio.github.io" afterPath="$PROJECT_DIR$/istio.github.io" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/how-do-i-contribute.md" afterPath="$PROJECT_DIR$/_faq/how-do-i-contribute.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/istio-auth-traffic.md" afterPath="$PROJECT_DIR$/_faq/istio-auth-traffic.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/istio-doesnt-work.md" afterPath="$PROJECT_DIR$/_faq/istio-doesnt-work.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/version-info.md" afterPath="$PROJECT_DIR$/_faq/version-info.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/what-deployment-environment.md" afterPath="$PROJECT_DIR$/_faq/what-deployment-environment.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/what-does-istio-mean.md" afterPath="$PROJECT_DIR$/_faq/what-does-istio-mean.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/what-is-the-license.md" afterPath="$PROJECT_DIR$/_faq/what-is-the-license.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/where-is-the-documentation.md" afterPath="$PROJECT_DIR$/_faq/where-is-the-documentation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/why-use-istio.md" afterPath="$PROJECT_DIR$/_faq/why-use-istio.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/how-do-i-get-started.md" afterPath="$PROJECT_DIR$/_faq/how-do-i-get-started.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" afterPath="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq/index.md" afterPath="$PROJECT_DIR$/faq/index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,6 +20,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="istio-auth-traffic.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_faq/istio-auth-traffic.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="use-k8s-secrets.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_faq/use-k8s-secrets.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="version-info.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_faq/version-info.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -78,19 +98,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="what-is-the-license.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_faq/what-is-the-license.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="where-is-the-documentation.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_faq/where-is-the-documentation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -104,25 +111,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="why-mixer.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_faq/why-mixer.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="7" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="why-use-istio.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="why-use-istio.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_faq/why-use-istio.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="285">
-                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -130,12 +124,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="roadmap.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_faq/roadmap.md">
+      <file leaf-file-name="why-mixer.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_faq/why-mixer.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="68" lean-forward="false" selection-start-line="6" selection-start-column="68" selection-end-line="7" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -143,12 +137,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="istio-partners-and-vendors.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_faq/istio-partners-and-vendors.md">
+      <file leaf-file-name="istio-doesnt-work.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_faq/istio-doesnt-work.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="69" lean-forward="false" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -201,7 +195,6 @@
         <option value="$PROJECT_DIR$/community/index.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-10-0.2-announcement.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_faq/how-do-i-get-started.md" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/faq/index.md" />
@@ -210,7 +203,6 @@
         <option value="$PROJECT_DIR$/_faq/what-is-istio.md" />
         <option value="$PROJECT_DIR$/_faq/use-k8s-secrets.md" />
         <option value="$PROJECT_DIR$/_faq/roadmap.md" />
-        <option value="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" />
         <option value="$PROJECT_DIR$/_faq/does-istio-support-authorization.md" />
         <option value="$PROJECT_DIR$/_faq/how-do-i-contribute.md" />
         <option value="$PROJECT_DIR$/_faq/why-use-istio.md" />
@@ -221,6 +213,8 @@
         <option value="$PROJECT_DIR$/_faq/version-info.md" />
         <option value="$PROJECT_DIR$/_faq/istio-doesnt-work.md" />
         <option value="$PROJECT_DIR$/_faq/istio-auth-traffic.md" />
+        <option value="$PROJECT_DIR$/_faq/how-do-i-get-started.md" />
+        <option value="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" />
       </list>
     </option>
   </component>
@@ -360,16 +354,15 @@
       <workItem from="1509424582630" duration="5526000" />
       <workItem from="1509442099457" duration="514000" />
       <workItem from="1509468041275" duration="927000" />
-      <workItem from="1509511469502" duration="7558000" />
+      <workItem from="1509511469502" duration="8380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22110000" />
+    <option name="totallyTimeSpent" value="22932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -378,7 +371,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25798672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25798672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -670,22 +663,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/use-k8s-secrets.md">
+    <entry file="file://$PROJECT_DIR$/_faq/does-istio-support-authorization.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
-            <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/does-istio-support-authorization.md">
+    <entry file="file://$PROJECT_DIR$/_faq/roadmap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/what-is-the-license.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
@@ -706,8 +710,8 @@
     <entry file="file://$PROJECT_DIR$/_faq/how-do-i-get-started.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
             <folding />
           </first_editor>
           <second_editor />
@@ -725,11 +729,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/istio-auth-traffic.md">
+    <entry file="file://$PROJECT_DIR$/_faq/istio-partners-and-vendors.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <first_editor relative-caret-position="135">
+            <caret line="8" column="82" lean-forward="false" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
             <folding />
           </first_editor>
           <second_editor />
@@ -747,22 +751,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/istio-partners-and-vendors.md">
+    <entry file="file://$PROJECT_DIR$/_faq/istio-auth-traffic.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/roadmap.md">
+    <entry file="file://$PROJECT_DIR$/_faq/use-k8s-secrets.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
@@ -813,17 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/what-is-the-license.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_faq/where-is-the-documentation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -835,22 +828,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/why-mixer.md">
+    <entry file="file://$PROJECT_DIR$/_faq/why-use-istio.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="7" selection-end-column="0" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/why-use-istio.md">
+    <entry file="file://$PROJECT_DIR$/_faq/why-mixer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="68" lean-forward="false" selection-start-line="6" selection-start-column="68" selection-end-line="7" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
