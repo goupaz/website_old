@@ -18,6 +18,7 @@ type: markdown
 </table>
 
 # Əməkdaşlar
-     
-     ![alt text](ilkaddimlar.png)
+        
+![alt text](ilkaddimlar.jpg)
+   
 
