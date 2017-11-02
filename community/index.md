@@ -19,6 +19,3 @@ type: markdown
 
 # Əməkdaşlar
         
-![Ilkaddimlar](http://ilkaddimlar.com/t/i/assets/images/cs-logo.png =10x100)
-   
-
