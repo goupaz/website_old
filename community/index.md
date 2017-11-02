@@ -19,5 +19,5 @@ type: markdown
 
 # Əməkdaşlar
      
-     ![alt text](http://ilkaddimlar.com/t/i/assets/images/cs-logo.png)
+     ![alt text](http://ilkaddimlar.png)
 
