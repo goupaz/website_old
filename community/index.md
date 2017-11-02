@@ -15,6 +15,7 @@ type: markdown
       </tr>
    <tr>
      # Əməkdaşlar
+     
      ![alt text](http://ilkaddimlar.com/t/i/assets/images/cs-logo.png)
     
      </tr>
