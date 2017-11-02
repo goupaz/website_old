@@ -19,5 +19,5 @@ type: markdown
 
 # Əməkdaşlar
      
-     ![alt text](http://ilkaddimlar.png)
+     ![alt text](ilkaddimlar.png)
 
