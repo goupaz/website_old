@@ -8,28 +8,26 @@ layout: about
 type: markdown
 ---
 
-# Haqqımızda
+#About
 
-Biz kimik?
+Who are we?
 
-GOUP layihəsi xaricdə yaşayan və IT sahəsində çalışan bir qrup təcrübəli komandanın ideyasıdır. Layihənin Əsas məqsədi Azərbaycanda "Open Source" resursların inkişafı, bu sahədə xaricdə əldə etdiymiz təcrübənin sizlərlə paylaşılmasıdır.
-
-
-Missiya
-
-Xarici ve yerli bazarda IT sahəsində çalışan mütəxəsislərimiz arasında körpülər qurmaq
+The GOUP project is the idea of a experienced team living abroad but originally from Azerbaijan. The main objective is to develop "Open Source" resources in new technologies and sharing experience.
 
 
-Vizyon
+Mission
 
-Xarici bazarlara çıxacaq Azərbaycan Gəncliyini hazırlamaq.
-Yerli Startup infrastrukturunun inkişafı Texnoloji yenilikleri isti-isti sizlərə çatdırmaq
+Build bridges between IT professionals 
 
 
-Obyektiv
+Vision
 
-Hədəflərimiz çox sadədir IT sahəsinin inkişafını sürətləndirmək və ən böyük auditoriyanı toplamaq.
+Preparing  Youth to Come Out to IT Markets.
+Startup Infrastructure Development.
 
+Objective
+
+Our targets are very simple to accelerate the development of new trends and to collect the largest audience.
 
 
 

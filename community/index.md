@@ -1,12 +1,12 @@
 ---
-title: Komandamiz
+title: Team
 overview: Information on the various ways to participate and interact with the GOUPAZ community.
 layout: community
 type: markdown
 ---
 {% include home.html %}
 
-# Mentorlar
+# Mentors
 
 <table>
   <tbody>
@@ -17,5 +17,5 @@ type: markdown
   </tbody>
 </table>
 
-# Əməkdaşlar
+# Partners
         

@@ -1,11 +1,11 @@
 ---
-title: GOUP a necə dəstək ola bilərəm?
+title: How cointribute to GOUP ?
 order: 70
 type: markdown
 ---
 {% include home.html %}
 
-Layihənin hər zaman sizin dəstəyinə ehtiyacı var!
+The project need your community support!
 
 Koda əlavə və dəyişikliklər etməklə [GitHub](https://github.com/goupaz).
 

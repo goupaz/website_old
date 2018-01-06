@@ -1,9 +1,9 @@
 ---
-title: GOUP necə başladı?
+title: How GOUP started?
 order: 50
 type: markdown
 ---
 {% include home.html %}
 
-Layihə həftə sonlarının birində bu şəkildəki cızma-qara ilə və alınan "yox" cavabları ilə başladı
+The project started with a scratch on  one of boring weekends with receiving "no" responses as a motivation.
 [PDF]({{home}}/faq/GOUP_PROJECT.pdf)

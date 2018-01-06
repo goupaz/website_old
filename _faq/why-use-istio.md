@@ -1,21 +1,21 @@
 ---
-title: GOUP da iştirak mənə nə verəcək?
+title: What is aim of GOUP ?
 order: 20
 type: markdown
 ---
 {% include home.html %}
 
--Yeni ideyalar
+- New ideas
 
--Yeni dostlar
+- New friends
 
--Yeni texnologiyalardan istifadə bacarığı
+- Ability to use new technologies
 
--Yeni biliklər və onları manatlaşdırma yolları
+- New knowledge and ways of managing them
 
--Təcrübəli mentorlarla birbaşa əlaqə və məsləhətlər
+- Direct contact and advice with experienced mentors
 
-Bir sözlə ideyanızı qısa zamanda qazandırmaq imkanı!
+In short, the opportunity to release your idea as soon as possible!
 
 
 
