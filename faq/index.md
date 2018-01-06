@@ -6,10 +6,10 @@ type: markdown
 ---
 {% include home.html %}
 
-# Layihə ilə bağlı bəzi detallar
+# Details about Project
 
-Yeni sual, fikir, təklif, iradlar üçün: [Forum Panelimiz](https://groups.google.com/forum/#!forum/goupaz) 
-və ya [Sorğu](https://goo.gl/forms/t8mks1a1cOhpAkWT2) 
+For questions, ideas, suggestions, comments: [Forum](https://groups.google.com/forum/#!forum/goupaz) 
+OR [Request](https://goo.gl/forms/t8mks1a1cOhpAkWT2) 
 {% assign faqs = site.faq | sort: "order" %}
 <div class="panel-group" id="accordion">
 
