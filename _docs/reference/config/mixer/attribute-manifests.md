@@ -141,7 +141,7 @@ spec:
 apiVersion: "config.istio.io/v1alpha2"
 kind: attributemanifest
 metadata:
-  name: kubernetes
+  name: docker
   namespace: istio-system
 spec:
   attributes:
