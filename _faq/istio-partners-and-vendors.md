@@ -1,11 +1,11 @@
 ---
-title: GOUP Layihəsinə əməkdaş kimi necə qoşula bilərəm?
+title: How can I join the GOUP project as a partner?
 order: 75
 type: markdown
 ---
 {% include home.html %}
 
 
-İstənilən maraqlı əməkdaşlıqlar üçün [form](https://goo.gl/forms/0sQlRr2vYY5LiYp23).
+For any interesting cooperation [form](https://goo.gl/forms/0sQlRr2vYY5LiYp23).
 
 

@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4806f3e6-3ba5-4171-b139-eef4dc63d75a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/istio.github.io" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-10-0.2-announcement.md" afterPath="$PROJECT_DIR$/_posts/2017-10-10-0.2-announcement.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq/index.md" afterPath="$PROJECT_DIR$/faq/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_docs/concepts/index.md" afterPath="$PROJECT_DIR$/_docs/concepts/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_docs/guides/index.md" afterPath="$PROJECT_DIR$/_docs/guides/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_docs/index.md" afterPath="$PROJECT_DIR$/_docs/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_docs/setup/index.md" afterPath="$PROJECT_DIR$/_docs/setup/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_docs/tasks/index.md" afterPath="$PROJECT_DIR$/_docs/tasks/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/does-istio-support-authorization.md" afterPath="$PROJECT_DIR$/_faq/does-istio-support-authorization.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/istio-doesnt-work.md" afterPath="$PROJECT_DIR$/_faq/istio-doesnt-work.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" afterPath="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/roadmap.md" afterPath="$PROJECT_DIR$/_faq/roadmap.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/use-k8s-secrets.md" afterPath="$PROJECT_DIR$/_faq/use-k8s-secrets.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/version-info.md" afterPath="$PROJECT_DIR$/_faq/version-info.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_faq/what-deployment-environment.md" afterPath="$PROJECT_DIR$/_faq/what-deployment-environment.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,85 +29,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_bugs.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/layouts/_bugs.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doc-top-nav.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/doc-top-nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doc-side-nav.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/doc-side-nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="36" column="68" lean-forward="true" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/robots.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firebase.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firebase.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CONTRIBUTING.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <file leaf-file-name="does-istio-support-authorization.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_faq/does-istio-support-authorization.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_docs/setup/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="56" lean-forward="false" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -119,12 +55,199 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <file leaf-file-name="envoy.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_glossary/envoy.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicegraph.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/tasks/telemetry/servicegraph.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-6">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attributes.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/concepts/policy-and-control/attributes.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/reference/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/guides/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="istio.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/istio.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/concepts/policy-and-control/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mixer-config.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_docs/concepts/policy-and-control/mixer-config.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-361">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1515278961108" expanded="true" signature="3778:3802" ph="config.is…o/v1alpha2" />
+                  <marker date="1515278961108" expanded="true" signature="3809:3845" ph="rule, ada…plate kind" />
+                  <marker date="1515278961108" expanded="true" signature="3846:3899" ph="metadata: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="3864:3873" ph="shortname" />
+                  <marker date="1515278961108" expanded="true" signature="3887:3899" ph="istio-system" />
+                  <marker date="1515278961108" expanded="true" signature="4971:4995" ph="config.is…o/v1alpha2" />
+                  <marker date="1515278961108" expanded="true" signature="5002:5013" ph="listchecker" />
+                  <marker date="1515278961108" expanded="true" signature="5014:5071" ph="metadata: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="5032:5045" ph="staticversion" />
+                  <marker date="1515278961108" expanded="true" signature="5059:5071" ph="istio-system" />
+                  <marker date="1515278961108" expanded="true" signature="5072:5139" ph="spec: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="5093:5120" ph="http://wh…_registry/" />
+                  <marker date="1515278961108" expanded="true" signature="5134:5139" ph="false" />
+                  <marker date="1515278961108" expanded="true" signature="5861:5885" ph="config.is…o/v1alpha2" />
+                  <marker date="1515278961108" expanded="true" signature="5892:5902" ph="prometheus" />
+                  <marker date="1515278961108" expanded="true" signature="5903:5954" ph="metadata: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="5921:5928" ph="handler" />
+                  <marker date="1515278961108" expanded="true" signature="5942:5954" ph="istio-system" />
+                  <marker date="1515278961108" expanded="true" signature="5955:6459" ph="spec: &lt;1 key&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="5963:6459" ph="metrics: &lt;2 items&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="5982:5995" ph="request_count" />
+                  <marker date="1515278961108" expanded="true" signature="6015:6047" ph="requestco…tio-system" />
+                  <marker date="1515278961108" expanded="true" signature="6058:6065" ph="COUNTER" />
+                  <marker date="1515278961108" expanded="true" signature="6070:6154" ph="label_names: &lt;3 items&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="6089:6108" ph="destination_service" />
+                  <marker date="1515278961108" expanded="true" signature="6115:6134" ph="destination_version" />
+                  <marker date="1515278961108" expanded="true" signature="6141:6154" ph="response_code" />
+                  <marker date="1515278961108" expanded="true" signature="6165:6181" ph="request_duration" />
+                  <marker date="1515278961108" expanded="true" signature="6201:6236" ph="requestdu…tio-system" />
+                  <marker date="1515278961108" expanded="true" signature="6247:6259" ph="DISTRIBUTION" />
+                  <marker date="1515278961108" expanded="true" signature="6264:6348" ph="label_names: &lt;3 items&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="6283:6302" ph="destination_service" />
+                  <marker date="1515278961108" expanded="true" signature="6309:6328" ph="destination_version" />
+                  <marker date="1515278961108" expanded="true" signature="6335:6348" ph="response_code" />
+                  <marker date="1515278961108" expanded="true" signature="6353:6459" ph="buckets: &lt;1 key&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="6368:6459" ph="explicit_buckets: &lt;1 key&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="6394:6459" ph="bounds: [11 items]" />
+                  <marker date="1515278961108" expanded="true" signature="6403:6408" ph="0.005" />
+                  <marker date="1515278961108" expanded="true" signature="6410:6414" ph="0.01" />
+                  <marker date="1515278961108" expanded="true" signature="6416:6421" ph="0.025" />
+                  <marker date="1515278961108" expanded="true" signature="6423:6427" ph="0.05" />
+                  <marker date="1515278961108" expanded="true" signature="6429:6432" ph="0.1" />
+                  <marker date="1515278961108" expanded="true" signature="6434:6438" ph="0.25" />
+                  <marker date="1515278961108" expanded="true" signature="6440:6443" ph="0.5" />
+                  <marker date="1515278961108" expanded="true" signature="6448:6451" ph="2.5" />
+                  <marker date="1515278961108" expanded="true" signature="6456:6458" ph="10" />
+                  <marker date="1515278961108" expanded="true" signature="7519:7543" ph="config.is…o/v1alpha2" />
+                  <marker date="1515278961108" expanded="true" signature="7550:7556" ph="metric" />
+                  <marker date="1515278961108" expanded="true" signature="7557:7616" ph="metadata: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="7575:7590" ph="requestduration" />
+                  <marker date="1515278961108" expanded="true" signature="7604:7616" ph="istio-system" />
+                  <marker date="1515278961108" expanded="true" signature="7617:7877" ph="spec: &lt;3 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="7632:7657" ph="response.…on | &quot;0ms&quot;" />
+                  <marker date="1515278961108" expanded="true" signature="7660:7834" ph="dimensions: &lt;3 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="7697:7728" ph="destinati… &quot;unknown&quot;" />
+                  <marker date="1515278961108" expanded="true" signature="7754:7795" ph="destinati… &quot;unknown&quot;" />
+                  <marker date="1515278961108" expanded="true" signature="7815:7834" ph="response.code | 200" />
+                  <marker date="1515278961108" expanded="true" signature="7862:7877" ph="&quot;UNSPECIFIED&quot;" />
+                  <marker date="1515278961108" expanded="true" signature="8506:8530" ph="config.is…o/v1alpha2" />
+                  <marker date="1515278961108" expanded="true" signature="8537:8541" ph="rule" />
+                  <marker date="1515278961108" expanded="true" signature="8542:8594" ph="metadata: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="8560:8568" ph="promhttp" />
+                  <marker date="1515278961108" expanded="true" signature="8582:8594" ph="istio-system" />
+                  <marker date="1515278961108" expanded="true" signature="8595:8804" ph="spec: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="8610:8704" ph="destinati…== &quot;user1&quot;" />
+                  <marker date="1515278961108" expanded="true" signature="8707:8804" ph="actions: &lt;1 item&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="8729:8747" ph="handler.prometheus" />
+                  <marker date="1515278961108" expanded="true" signature="8752:8804" ph="instances: &lt;1 item&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="8769:8804" ph="requestdu…tio-system" />
+                  <marker date="1515278961108" expanded="true" signature="9811:9947" ph="destination_service: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="9832:9851" ph="destination.service" />
+                  <marker date="1515278961108" expanded="true" signature="9869:9882" ph="response.code" />
+                  <marker date="1515278961108" expanded="true" signature="9906:9947" ph="destinati… &quot;unknown&quot;" />
+                  <marker date="1515278961108" expanded="true" signature="10262:10303" ph="destinati… &quot;unknown&quot;" />
+                  <marker date="1515278961108" expanded="true" signature="12539:13095" ph="manifests: &lt;1 item&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="12560:12571" ph="istio-proxy" />
+                  <marker date="1515278961108" expanded="true" signature="12586:12589" ph="1" />
+                  <marker date="1515278961108" expanded="true" signature="12594:13095" ph="attributes: &lt;7 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="12612:12695" ph="source.name: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="12644:12650" ph="STRING" />
+                  <marker date="1515278961108" expanded="true" signature="12672:12695" ph="The name …he source." />
+                  <marker date="1515278961108" expanded="true" signature="12702:12794" ph="destination.name: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="12739:12745" ph="STRING" />
+                  <marker date="1515278961108" expanded="true" signature="12767:12794" ph="The name …estination" />
+                  <marker date="1515278961108" expanded="true" signature="12801:12907" ph="source.ip: &lt;2 keys&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="12831:12841" ph="IP_ADDRESS" />
+                  <marker date="1515278961108" expanded="true" signature="12863:12907" ph="Did you k… optional?" />
+                  <marker date="1515278961108" expanded="true" signature="12914:12952" ph="origin.user: &lt;1 key&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="12946:12952" ph="STRING" />
+                  <marker date="1515278961108" expanded="true" signature="12959:13001" ph="request.time: &lt;1 key&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="12992:13001" ph="TIMESTAMP" />
+                  <marker date="1515278961108" expanded="true" signature="13008:13049" ph="request.method: &lt;1 key&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="13043:13049" ph="STRING" />
+                  <marker date="1515278961108" expanded="true" signature="13056:13095" ph="response.code: &lt;1 key&gt;" />
+                  <marker date="1515278961108" expanded="true" signature="13090:13095" ph="INT64" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -169,17 +292,9 @@
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/about.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
-        <option value="$PROJECT_DIR$/_faq/use-k8s-secrets.md" />
-        <option value="$PROJECT_DIR$/_faq/roadmap.md" />
-        <option value="$PROJECT_DIR$/_faq/does-istio-support-authorization.md" />
-        <option value="$PROJECT_DIR$/_faq/what-deployment-environment.md" />
-        <option value="$PROJECT_DIR$/_faq/version-info.md" />
-        <option value="$PROJECT_DIR$/_faq/istio-doesnt-work.md" />
         <option value="$PROJECT_DIR$/_faq/istio-auth-traffic.md" />
-        <option value="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" />
         <option value="$PROJECT_DIR$/_faq/how-do-i-contribute.md" />
         <option value="$PROJECT_DIR$/_faq/how-do-i-get-started.md" />
         <option value="$PROJECT_DIR$/_faq/how-was-istio-started.md" />
@@ -194,6 +309,19 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-10-0.2-announcement.md" />
         <option value="$PROJECT_DIR$/faq/index.md" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_docs/index.md" />
+        <option value="$PROJECT_DIR$/_docs/concepts/index.md" />
+        <option value="$PROJECT_DIR$/_docs/setup/index.md" />
+        <option value="$PROJECT_DIR$/_docs/tasks/index.md" />
+        <option value="$PROJECT_DIR$/_docs/guides/index.md" />
+        <option value="$PROJECT_DIR$/_faq/use-k8s-secrets.md" />
+        <option value="$PROJECT_DIR$/_faq/version-info.md" />
+        <option value="$PROJECT_DIR$/_faq/what-deployment-environment.md" />
+        <option value="$PROJECT_DIR$/_faq/roadmap.md" />
+        <option value="$PROJECT_DIR$/_faq/istio-partners-and-vendors.md" />
+        <option value="$PROJECT_DIR$/_faq/istio-doesnt-work.md" />
+        <option value="$PROJECT_DIR$/_faq/does-istio-support-authorization.md" />
       </list>
     </option>
   </component>
@@ -234,7 +362,20 @@
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_data" type="462c0819:PsiDirectoryNode" />
+              <item name="_docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="_docs" type="462c0819:PsiDirectoryNode" />
+              <item name="concepts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="_docs" type="462c0819:PsiDirectoryNode" />
+              <item name="concepts" type="462c0819:PsiDirectoryNode" />
+              <item name="policy-and-control" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
@@ -254,60 +395,12 @@
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="community" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="faq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="favicons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
@@ -362,12 +455,12 @@
       <workItem from="1509442099457" duration="514000" />
       <workItem from="1509468041275" duration="927000" />
       <workItem from="1509511469502" duration="8380000" />
-      <workItem from="1515279006525" duration="2096000" />
+      <workItem from="1515279006525" duration="3632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25028000" />
+    <option name="totallyTimeSpent" value="26564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -405,242 +498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/landing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/roadmap.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/istio-partners-and-vendors.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="8" column="82" lean-forward="false" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/istio-auth-traffic.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/use-k8s-secrets.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/version-info.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/what-deployment-environment.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/istio-doesnt-work.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="69" lean-forward="false" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/how-do-i-get-started.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/how-was-istio-started.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/does-istio-support-authorization.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/what-does-istio-mean.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/what-is-istio.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/what-is-the-license.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="7" column="88" lean-forward="false" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/where-is-the-documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/why-use-istio.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/why-mixer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_faq/how-do-i-contribute.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/community/index.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/search-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/bugs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -726,22 +583,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,11 +693,256 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="34" column="254" lean-forward="false" selection-start-line="34" selection-start-column="247" selection-end-line="34" selection-end-column="254" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/doc-top-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/search-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/doc-side-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="36" column="68" lean-forward="true" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_docs/setup/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/tasks/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/concepts/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/what-deployment-environment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/version-info.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="8" column="62" lean-forward="false" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/use-k8s-secrets.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/roadmap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/istio-partners-and-vendors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/istio-doesnt-work.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/tasks/task.md.template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/tasks/telemetry/using-istio-dashboard.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/tasks/telemetry/servicegraph.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-6">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/concepts/policy-and-control/attributes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/reference/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/guides/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/istio.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_faq/does-istio-support-authorization.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="56" lean-forward="false" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
             <folding />
           </first_editor>
           <second_editor />
@@ -874,35 +960,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_glossary/envoy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/doc-top-nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_docs/concepts/policy-and-control/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/doc-side-nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="36" column="68" lean-forward="true" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_docs/concepts/policy-and-control/mixer-config.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-361">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1515278961108" expanded="true" signature="3778:3802" ph="config.is…o/v1alpha2" />
+              <marker date="1515278961108" expanded="true" signature="3809:3845" ph="rule, ada…plate kind" />
+              <marker date="1515278961108" expanded="true" signature="3846:3899" ph="metadata: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="3864:3873" ph="shortname" />
+              <marker date="1515278961108" expanded="true" signature="3887:3899" ph="istio-system" />
+              <marker date="1515278961108" expanded="true" signature="4971:4995" ph="config.is…o/v1alpha2" />
+              <marker date="1515278961108" expanded="true" signature="5002:5013" ph="listchecker" />
+              <marker date="1515278961108" expanded="true" signature="5014:5071" ph="metadata: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="5032:5045" ph="staticversion" />
+              <marker date="1515278961108" expanded="true" signature="5059:5071" ph="istio-system" />
+              <marker date="1515278961108" expanded="true" signature="5072:5139" ph="spec: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="5093:5120" ph="http://wh…_registry/" />
+              <marker date="1515278961108" expanded="true" signature="5134:5139" ph="false" />
+              <marker date="1515278961108" expanded="true" signature="5861:5885" ph="config.is…o/v1alpha2" />
+              <marker date="1515278961108" expanded="true" signature="5892:5902" ph="prometheus" />
+              <marker date="1515278961108" expanded="true" signature="5903:5954" ph="metadata: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="5921:5928" ph="handler" />
+              <marker date="1515278961108" expanded="true" signature="5942:5954" ph="istio-system" />
+              <marker date="1515278961108" expanded="true" signature="5955:6459" ph="spec: &lt;1 key&gt;" />
+              <marker date="1515278961108" expanded="true" signature="5963:6459" ph="metrics: &lt;2 items&gt;" />
+              <marker date="1515278961108" expanded="true" signature="5982:5995" ph="request_count" />
+              <marker date="1515278961108" expanded="true" signature="6015:6047" ph="requestco…tio-system" />
+              <marker date="1515278961108" expanded="true" signature="6058:6065" ph="COUNTER" />
+              <marker date="1515278961108" expanded="true" signature="6070:6154" ph="label_names: &lt;3 items&gt;" />
+              <marker date="1515278961108" expanded="true" signature="6089:6108" ph="destination_service" />
+              <marker date="1515278961108" expanded="true" signature="6115:6134" ph="destination_version" />
+              <marker date="1515278961108" expanded="true" signature="6141:6154" ph="response_code" />
+              <marker date="1515278961108" expanded="true" signature="6165:6181" ph="request_duration" />
+              <marker date="1515278961108" expanded="true" signature="6201:6236" ph="requestdu…tio-system" />
+              <marker date="1515278961108" expanded="true" signature="6247:6259" ph="DISTRIBUTION" />
+              <marker date="1515278961108" expanded="true" signature="6264:6348" ph="label_names: &lt;3 items&gt;" />
+              <marker date="1515278961108" expanded="true" signature="6283:6302" ph="destination_service" />
+              <marker date="1515278961108" expanded="true" signature="6309:6328" ph="destination_version" />
+              <marker date="1515278961108" expanded="true" signature="6335:6348" ph="response_code" />
+              <marker date="1515278961108" expanded="true" signature="6353:6459" ph="buckets: &lt;1 key&gt;" />
+              <marker date="1515278961108" expanded="true" signature="6368:6459" ph="explicit_buckets: &lt;1 key&gt;" />
+              <marker date="1515278961108" expanded="true" signature="6394:6459" ph="bounds: [11 items]" />
+              <marker date="1515278961108" expanded="true" signature="6403:6408" ph="0.005" />
+              <marker date="1515278961108" expanded="true" signature="6410:6414" ph="0.01" />
+              <marker date="1515278961108" expanded="true" signature="6416:6421" ph="0.025" />
+              <marker date="1515278961108" expanded="true" signature="6423:6427" ph="0.05" />
+              <marker date="1515278961108" expanded="true" signature="6429:6432" ph="0.1" />
+              <marker date="1515278961108" expanded="true" signature="6434:6438" ph="0.25" />
+              <marker date="1515278961108" expanded="true" signature="6440:6443" ph="0.5" />
+              <marker date="1515278961108" expanded="true" signature="6448:6451" ph="2.5" />
+              <marker date="1515278961108" expanded="true" signature="6456:6458" ph="10" />
+              <marker date="1515278961108" expanded="true" signature="7519:7543" ph="config.is…o/v1alpha2" />
+              <marker date="1515278961108" expanded="true" signature="7550:7556" ph="metric" />
+              <marker date="1515278961108" expanded="true" signature="7557:7616" ph="metadata: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="7575:7590" ph="requestduration" />
+              <marker date="1515278961108" expanded="true" signature="7604:7616" ph="istio-system" />
+              <marker date="1515278961108" expanded="true" signature="7617:7877" ph="spec: &lt;3 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="7632:7657" ph="response.…on | &quot;0ms&quot;" />
+              <marker date="1515278961108" expanded="true" signature="7660:7834" ph="dimensions: &lt;3 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="7697:7728" ph="destinati… &quot;unknown&quot;" />
+              <marker date="1515278961108" expanded="true" signature="7754:7795" ph="destinati… &quot;unknown&quot;" />
+              <marker date="1515278961108" expanded="true" signature="7815:7834" ph="response.code | 200" />
+              <marker date="1515278961108" expanded="true" signature="7862:7877" ph="&quot;UNSPECIFIED&quot;" />
+              <marker date="1515278961108" expanded="true" signature="8506:8530" ph="config.is…o/v1alpha2" />
+              <marker date="1515278961108" expanded="true" signature="8537:8541" ph="rule" />
+              <marker date="1515278961108" expanded="true" signature="8542:8594" ph="metadata: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="8560:8568" ph="promhttp" />
+              <marker date="1515278961108" expanded="true" signature="8582:8594" ph="istio-system" />
+              <marker date="1515278961108" expanded="true" signature="8595:8804" ph="spec: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="8610:8704" ph="destinati…== &quot;user1&quot;" />
+              <marker date="1515278961108" expanded="true" signature="8707:8804" ph="actions: &lt;1 item&gt;" />
+              <marker date="1515278961108" expanded="true" signature="8729:8747" ph="handler.prometheus" />
+              <marker date="1515278961108" expanded="true" signature="8752:8804" ph="instances: &lt;1 item&gt;" />
+              <marker date="1515278961108" expanded="true" signature="8769:8804" ph="requestdu…tio-system" />
+              <marker date="1515278961108" expanded="true" signature="9811:9947" ph="destination_service: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="9832:9851" ph="destination.service" />
+              <marker date="1515278961108" expanded="true" signature="9869:9882" ph="response.code" />
+              <marker date="1515278961108" expanded="true" signature="9906:9947" ph="destinati… &quot;unknown&quot;" />
+              <marker date="1515278961108" expanded="true" signature="10262:10303" ph="destinati… &quot;unknown&quot;" />
+              <marker date="1515278961108" expanded="true" signature="12539:13095" ph="manifests: &lt;1 item&gt;" />
+              <marker date="1515278961108" expanded="true" signature="12560:12571" ph="istio-proxy" />
+              <marker date="1515278961108" expanded="true" signature="12586:12589" ph="1" />
+              <marker date="1515278961108" expanded="true" signature="12594:13095" ph="attributes: &lt;7 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="12612:12695" ph="source.name: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="12644:12650" ph="STRING" />
+              <marker date="1515278961108" expanded="true" signature="12672:12695" ph="The name …he source." />
+              <marker date="1515278961108" expanded="true" signature="12702:12794" ph="destination.name: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="12739:12745" ph="STRING" />
+              <marker date="1515278961108" expanded="true" signature="12767:12794" ph="The name …estination" />
+              <marker date="1515278961108" expanded="true" signature="12801:12907" ph="source.ip: &lt;2 keys&gt;" />
+              <marker date="1515278961108" expanded="true" signature="12831:12841" ph="IP_ADDRESS" />
+              <marker date="1515278961108" expanded="true" signature="12863:12907" ph="Did you k… optional?" />
+              <marker date="1515278961108" expanded="true" signature="12914:12952" ph="origin.user: &lt;1 key&gt;" />
+              <marker date="1515278961108" expanded="true" signature="12946:12952" ph="STRING" />
+              <marker date="1515278961108" expanded="true" signature="12959:13001" ph="request.time: &lt;1 key&gt;" />
+              <marker date="1515278961108" expanded="true" signature="12992:13001" ph="TIMESTAMP" />
+              <marker date="1515278961108" expanded="true" signature="13008:13049" ph="request.method: &lt;1 key&gt;" />
+              <marker date="1515278961108" expanded="true" signature="13043:13049" ph="STRING" />
+              <marker date="1515278961108" expanded="true" signature="13056:13095" ph="response.code: &lt;1 key&gt;" />
+              <marker date="1515278961108" expanded="true" signature="13090:13095" ph="INT64" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

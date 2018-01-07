@@ -1,8 +1,8 @@
 ---
-title: Zoom Nədir?
+title: What is Zoom ?
 order: 120
 type: markdown
 ---
 {% include home.html %}
-Zoom İnteraktiv Vebinarlar təşkil etmək üçün istifadə olunan platformadır.
+Zoom is a platform used to organize interactive Webinars.
 [Ətraflı](https://zoom.us/)

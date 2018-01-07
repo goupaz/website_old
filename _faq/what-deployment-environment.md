@@ -1,8 +1,8 @@
 ---
-title: GOUP -un açıq-kodlu olmasına səbəb?
+title: Why GOUP is open source?
 order: 60
 type: markdown
 ---
 {% include home.html %}
 
-GOUP -un açıq kodlu və pulsuz şəkildə olmasında əsas məqsəd İT sahəsində  yeni uğurlu startup -ların ərsəyə gəlməsidir.
+The main goal of GOUP, which is open-source and free, is the launch of new successful IT start-ups.

@@ -1,6 +1,6 @@
 ---
 title: Welcome
-overview: Istio documentation home page.
+overview: GOUP documentation home page.
 index: true
 
 order: 0

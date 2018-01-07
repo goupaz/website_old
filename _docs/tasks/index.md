@@ -1,5 +1,5 @@
 ---
-title: Tasks
+title: Istio
 overview: Tasks show you how to do a single specific targeted activity with the Istio system.
 index: true
 

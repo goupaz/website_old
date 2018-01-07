@@ -1,8 +1,8 @@
 ---
-title: GOUP xidmətlərindən istifadə edə bilmirəm?
+title: How can subsbribe to GOUP services?
 order: 90
 type: markdown
 ---
 {% include home.html %}
 
-Zəhmət olmasa goupaz@googlegroups.com email ünvanına məktub göndərin.
+Please email to goupaz@googlegroups.com.

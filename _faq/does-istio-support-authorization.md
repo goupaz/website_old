@@ -1,8 +1,8 @@
 ---
-title: GOUP Mentorlar kimlərdir?
+title: Who are GOUP mentors?
 order: 110
 type: markdown
 ---
 {% include home.html %}
 
-İT sahəsində çalışan təcrübəli mütəxəsislər 
+Out of box thinking people, enjoying work with community

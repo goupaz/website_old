@@ -1,5 +1,5 @@
 ---
-title: Guides
+title: Docker
 overview: Guides include a variety of fully working example uses for Istio that you can experiment with.
 index: true
 

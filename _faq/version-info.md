@@ -1,9 +1,9 @@
 ---
-title: Alfa Planlar Nədir?
+title: What are Alpha plans?
 order: 100
 type: markdown
 ---
 {% include home.html %}
 
-GOUP {{ site.data.istio.version }} layihəsini reallaşdırmaq üçün pilləli hədəflər müəyyən edilmişdir.
-Hazırki versiyada əsas hədəf 10 həftə ərzində 10 Vebinarı 90 iştirakçıya verməkdir
+GOUP has set step-by-step targets for realizing the {{site.data.istio.version}} project.
+In the current version, the main target is to give 10 webinars to 90 participants within 10 weeks

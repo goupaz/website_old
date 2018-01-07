@@ -1,5 +1,5 @@
 ---
-title: Concepts
+title: GCP
 overview: Concepts help you learn about the different parts of the Istio system and the abstractions it uses.
 index: true
 
