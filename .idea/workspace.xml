@@ -2,120 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4806f3e6-3ba5-4171-b139-eef4dc63d75a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/concept.md.template" afterPath="$PROJECT_DIR$/_docs/gcp/concept.md.template" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/index.md" afterPath="$PROJECT_DIR$/_docs/gcp/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/attributes.md" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/attributes.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/img/mixer-config/machine.svg" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/img/mixer-config/machine.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/img/mixer/adapters.svg" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/img/mixer/adapters.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/img/mixer/phases.svg" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/img/mixer/phases.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/img/mixer/traffic.svg" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/img/mixer/traffic.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/index.md" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/mixer-config.md" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/mixer-config.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/policy-and-control/mixer.md" afterPath="$PROJECT_DIR$/_docs/gcp/policy-and-control/mixer.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/security/img/auth/auth.svg" afterPath="$PROJECT_DIR$/_docs/gcp/security/img/auth/auth.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/security/index.md" afterPath="$PROJECT_DIR$/_docs/gcp/security/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/security/mutual-tls.md" afterPath="$PROJECT_DIR$/_docs/gcp/security/mutual-tls.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/fault-injection.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/fault-injection.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/handling-failures.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/handling-failures.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/LoadBalancing.png" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/LoadBalancing.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/LoadBalancing.svg" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/LoadBalancing.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/PilotAdapters.png" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/PilotAdapters.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/PilotAdapters.svg" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/PilotAdapters.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/ServiceModel_RequestFlow.png" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/ServiceModel_RequestFlow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/ServiceModel_RequestFlow.svg" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/ServiceModel_RequestFlow.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/ServiceModel_Versions.png" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/ServiceModel_Versions.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/ServiceModel_Versions.svg" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/ServiceModel_Versions.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/TrafficManagementOverview.png" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/TrafficManagementOverview.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/img/pilot/TrafficManagementOverview.svg" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/img/pilot/TrafficManagementOverview.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/index.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/load-balancing.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/load-balancing.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/overview.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/overview.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/pilot.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/pilot.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/request-routing.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/request-routing.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/traffic-management/rules-configuration.md" afterPath="$PROJECT_DIR$/_docs/gcp/traffic-management/rules-configuration.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/what-is-istio/goals.md" afterPath="$PROJECT_DIR$/_docs/gcp/what-is-istio/goals.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/what-is-istio/img/architecture/arch.png" afterPath="$PROJECT_DIR$/_docs/gcp/what-is-istio/img/architecture/arch.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/what-is-istio/img/architecture/arch.svg" afterPath="$PROJECT_DIR$/_docs/gcp/what-is-istio/img/architecture/arch.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/what-is-istio/index.md" afterPath="$PROJECT_DIR$/_docs/gcp/what-is-istio/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/concepts/what-is-istio/overview.md" afterPath="$PROJECT_DIR$/_docs/gcp/what-is-istio/overview.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/bookinfo.md" afterPath="$PROJECT_DIR$/_docs/docker/bookinfo.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/guide.md.template" afterPath="$PROJECT_DIR$/_docs/docker/guide.md.template" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/img/bookinfo/noistio.png" afterPath="$PROJECT_DIR$/_docs/docker/img/bookinfo/noistio.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/img/bookinfo/noistio.svg" afterPath="$PROJECT_DIR$/_docs/docker/img/bookinfo/noistio.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/img/bookinfo/withistio.png" afterPath="$PROJECT_DIR$/_docs/docker/img/bookinfo/withistio.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/img/bookinfo/withistio.svg" afterPath="$PROJECT_DIR$/_docs/docker/img/bookinfo/withistio.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/img/mesh-expansion.svg" afterPath="$PROJECT_DIR$/_docs/docker/img/mesh-expansion.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/index.md" afterPath="$PROJECT_DIR$/_docs/docker/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/integrating-vms.md" afterPath="$PROJECT_DIR$/_docs/docker/integrating-vms.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/intelligent-routing.md" afterPath="$PROJECT_DIR$/_docs/docker/intelligent-routing.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/policy-enforcement.md" afterPath="$PROJECT_DIR$/_docs/docker/policy-enforcement.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/security.md" afterPath="$PROJECT_DIR$/_docs/docker/security.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/telemetry.md" afterPath="$PROJECT_DIR$/_docs/docker/telemetry.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/upgrading-istio.md" afterPath="$PROJECT_DIR$/_docs/docker/upgrading-istio.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/guides/using-external-services.md" afterPath="$PROJECT_DIR$/_docs/docker/using-external-services.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/cloudfoundry/faq.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/cloudfoundry/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/cloudfoundry/index.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/cloudfoundry/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/cloudfoundry/install.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/cloudfoundry/install.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/consul/faq.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/consul/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/consul/index.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/consul/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/consul/install.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/consul/install.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/consul/quick-start.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/consul/quick-start.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/eureka/faq.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/eureka/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/eureka/index.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/eureka/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/eureka/install.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/eureka/install.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/eureka/quick-start.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/eureka/quick-start.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/index.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/advanced-install.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/advanced-install.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/faq.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/img/grafana_dashboard.png" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/img/grafana_dashboard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/img/servicegraph.png" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/img/servicegraph.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/index.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/mesh-expansion.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/mesh-expansion.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/quick-start.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/quick-start.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/kubernetes/sidecar-injection.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/kubernetes/sidecar-injection.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/mesos/faq.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/mesos/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/mesos/index.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/mesos/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/setup/mesos/install.md" afterPath="$PROJECT_DIR$/_docs/kubernetes/mesos/install.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/index.md" afterPath="$PROJECT_DIR$/_docs/istio/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/policy-enforcement/faq.md" afterPath="$PROJECT_DIR$/_docs/istio/policy-enforcement/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/policy-enforcement/index.md" afterPath="$PROJECT_DIR$/_docs/istio/policy-enforcement/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/policy-enforcement/rate-limiting.md" afterPath="$PROJECT_DIR$/_docs/istio/policy-enforcement/rate-limiting.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/security/basic-access-control.md" afterPath="$PROJECT_DIR$/_docs/istio/security/basic-access-control.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/security/faq.md" afterPath="$PROJECT_DIR$/_docs/istio/security/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/security/index.md" afterPath="$PROJECT_DIR$/_docs/istio/security/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/security/mutual-tls.md" afterPath="$PROJECT_DIR$/_docs/istio/security/mutual-tls.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/security/secure-access-control.md" afterPath="$PROJECT_DIR$/_docs/istio/security/secure-access-control.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/task.md.template" afterPath="$PROJECT_DIR$/_docs/istio/task.md.template" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/distributed-tracing.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/distributed-tracing.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/faq.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/dashboard-with-traffic.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/dashboard-with-traffic.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/dashboard_response_size.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/dashboard_response_size.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/grafana-istio-dashboard.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/grafana-istio-dashboard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/istio-tcp-attribute-flow.svg" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/istio-tcp-attribute-flow.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/jaeger_dashboard.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/jaeger_dashboard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/jaeger_trace.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/jaeger_trace.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/prometheus_query_result.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/prometheus_query_result.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/servicegraph-example.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/servicegraph-example.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/zipkin_dashboard.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/zipkin_dashboard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/img/zipkin_span.png" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/img/zipkin_span.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/index.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/metrics-logs.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/metrics-logs.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/querying-metrics.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/querying-metrics.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/servicegraph.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/servicegraph.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/tcp-metrics.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/tcp-metrics.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/telemetry/using-istio-dashboard.md" afterPath="$PROJECT_DIR$/_docs/istio/telemetry/using-istio-dashboard.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/egress.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/egress.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/faq.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/fault-injection.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/fault-injection.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/index.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/ingress.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/ingress.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/request-routing.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/request-routing.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/request-timeouts.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/request-timeouts.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/tasks/traffic-management/traffic-shifting.md" afterPath="$PROJECT_DIR$/_docs/istio/traffic-management/traffic-shifting.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/img/bookinfo/noistio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/img/bookinfo/withistio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/bookinfo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/guide.md.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/img/bookinfo/noistio.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/img/bookinfo/withistio.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/img/mesh-expansion.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/integrating-vms.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/intelligent-routing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/policy-enforcement.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/security.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/telemetry.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/upgrading-istio.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_docs/nginmesh/using-external-services.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_docs/reference/config/mixer/attribute-manifests.md" afterPath="$PROJECT_DIR$/_docs/reference/config/mixer/attribute-manifests.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -130,55 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_docs/kubernetes/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_docs/docker/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-210">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rakefile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_text.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/base/_text.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -229,12 +82,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_community.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_community.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/layouts/_community.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/gcp/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_docs/gcp/what-is-istio/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overview.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/gcp/traffic-management/overview.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="load-balancing.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_docs/gcp/traffic-management/load-balancing.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -354,40 +259,12 @@
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_docs" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_docs" type="462c0819:PsiDirectoryNode" />
-              <item name="gcp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_glossary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
@@ -418,6 +295,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_docs" />
       <recent name="$PROJECT_DIR$/_faq" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -452,18 +330,17 @@
       <workItem from="1509442099457" duration="514000" />
       <workItem from="1509468041275" duration="927000" />
       <workItem from="1509511469502" duration="8380000" />
-      <workItem from="1515279006525" duration="4534000" />
+      <workItem from="1515279006525" duration="5220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27466000" />
+    <option name="totallyTimeSpent" value="28152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25738397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25738397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118730806" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -495,30 +372,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/community.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/welcome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/troubleshooting.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -954,17 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_docs/gcp/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_docs/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1062,6 +904,50 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/gcp/traffic-management/overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/gcp/traffic-management/load-balancing.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/gcp/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_docs/gcp/what-is-istio/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
